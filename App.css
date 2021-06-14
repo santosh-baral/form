@@ -1,0 +1,31 @@
+
+.form{
+  text-align: center;
+  background-color: rgb(125, 125, 179);
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+
+}
+.textbox{
+ border-width: 2px;
+ margin: 20px;
+ resize: none;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: medium;
+}
+.date{
+  margin-left: 20px;
+}
+.text-center{
+  cursor: pointer;
+  text-align: center;
+  margin-top: -20px;
+  border-style:groove;
+  margin-left: 355px;
+  margin-right: 355px;
+  border-radius: 3px;
+}
+.text-center:hover{
+  color: blue;
+}
